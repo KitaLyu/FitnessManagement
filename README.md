@@ -1,5 +1,5 @@
 ﻿# Fitness Management System
 
-目前主体框架已完成。
+2025年秋季大型应用软件设计项目
 
 
