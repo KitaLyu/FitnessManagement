@@ -1,5 +1,5 @@
 ﻿# Fitness Management System
 
-2025年秋季大型应用软件课程设计项目
+2025年秋季大型应用软件设计项目
 
 
